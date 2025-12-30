@@ -18,8 +18,3 @@ You can try it live here: https://ronnyhamilton.github.io/QR-code-generator/
 - HTML  
 - CSS  
 - JavaScript (vanilla / plain JS)  
-## 🚀 How to Use / Run Locally
-
-1. Clone or download the project repository to your local machine.  
-   ```bash
-   git clone <your-repo-url>
